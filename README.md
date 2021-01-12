@@ -73,3 +73,8 @@ commit;
 + 회원가입, 삭제시 모두 데이터베이스와 연동되어있다.
 ![5-1 회원가입 후 데이터베이스](https://user-images.githubusercontent.com/74044292/104284199-00148e80-54f5-11eb-9ceb-e68d2ecf50d2.png)
 ![10  관리자가 삭제 후 데이터 베이스](https://user-images.githubusercontent.com/74044292/104284209-0276e880-54f5-11eb-8d7e-46403b1be2c9.png)
+<br/>
+<br/>
+
+## 🥈피피티
+[김정현.pptx](https://github.com/jeonghyun051/Project-ServerProgram/files/5800574/default.pptx)
