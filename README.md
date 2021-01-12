@@ -11,6 +11,8 @@
 <br/>
 
 ## 🥈MYSQL 데이터베이스 생성 및 사용자 생성
+- bloguser 사용자 생성
+- use blog 데이터 베이스 선택
 ```SQL
 create user 'bloguser'@'%' identified by 'bitc5600';
 grant all privileges on *.* to 'bloguser'@'%';
@@ -20,8 +22,8 @@ use blog;
 <br/>
 
 ## 🥈MYSQL 테이블 생성
-- bloguser 사용자 생성
-- use blog;  데이터 베이스 선택
+
+- user2 테이블 생성
 
 ```SQL
 CREATE TABLE user2(
