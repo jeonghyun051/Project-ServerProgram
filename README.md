@@ -78,3 +78,7 @@ commit;
 
 ## 🥈피피티
 [김정현.pptx](https://github.com/jeonghyun051/Project-ServerProgram/files/5800574/default.pptx)
+<br/>
+
+## 🥈블로그
+https://blog.naver.com/rlawjdgus051
